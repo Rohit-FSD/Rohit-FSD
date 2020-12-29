@@ -29,7 +29,6 @@
 
 <a href="https://github.com/Rohit-FSD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohit-FSD&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-FSD&theme=buefy&layout=compact" />
 </a>
 
 <br/>
